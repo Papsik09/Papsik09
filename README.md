@@ -7,9 +7,14 @@ I learn how to code on Python\ :smiley:
 :octocat:
 ------
 
-I am currently a student in computer science major,
+I am currently a *starting-student* in computer science major,
 so hopefully I will show my knowledge!
 
-**Fun fact about me: I like basketball!!!**
+***Fun facts about me:***
+:arrow_forward: I like basketball!!!
+:arrow_forward: I cook on my grill a lot!
+:arrow_forward: My favourite color is red.
+
+***
 
 ***I wish everybody a good day, let's learn together!***
