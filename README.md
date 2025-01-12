@@ -6,8 +6,10 @@ I learn how to code on Python
 Recently I started a program under MIT and hope to countinue
 my journey there.**
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-/***I am currently a student in computer science major,
+
+I am currently a student in computer science major,
 so hopefully I will show my knowledge!
 
-Fun fact about me: I like basketball!
-I wish everybody a good day, let's learn together!***
+**Fun fact about me: I like basketball!!!**
+
+***I wish everybody a good day, let's learn together!***
